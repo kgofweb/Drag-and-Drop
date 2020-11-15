@@ -3,6 +3,7 @@ Simple Drag and Drop with JavaScript
 
 
 Add to CSS file:
+
 `
 .container {
    width: 80%;
