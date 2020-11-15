@@ -12,8 +12,6 @@ Add to CSS file:
 `
 
 `
-
-`
 h1 {
    font-weight: 200;
    text-align: center;
